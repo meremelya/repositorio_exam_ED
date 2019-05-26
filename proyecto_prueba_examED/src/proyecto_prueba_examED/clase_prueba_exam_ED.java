@@ -6,6 +6,7 @@ public class clase_prueba_exam_ED {
 		// TODO Auto-generated method stub
 		System.out.println("Hola exam");
 		System.out.println("Hola otra vez!");
+		System.out.println("Espero aprobar");
 
 	}
 
